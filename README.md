@@ -1,4 +1,4 @@
-#Historia do projeto
+# Historia do projeto
 
 Prezado [Nome do destinatário],
 Espero que esta mensagem o encontre bem. Gostaria de expressar nosso interesse em desenvolver um projeto de construção de um e-commerce para nossa empresa. Acreditamos que um comércio eletrônico dedicado será uma adição estratégica para expandir nosso alcance e aumentar nossa presença online.
