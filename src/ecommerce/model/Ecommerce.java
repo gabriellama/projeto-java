@@ -20,16 +20,9 @@ public class Ecommerce {
 
 
 
-
-
-
-
 	public void setNumero(int numero) {
 		this.numero = numero;
 	}
-
-
-
 
 
 
@@ -40,16 +33,9 @@ public class Ecommerce {
 
 
 
-
-
-
-
 	public void setQuantidade(int quantidade) {
 		this.quantidade = quantidade;
 	}
-
-
-
 
 
 
@@ -61,16 +47,9 @@ public class Ecommerce {
 
 
 
-
-
-
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-
-
-
-
 
 
 
@@ -80,18 +59,9 @@ public class Ecommerce {
 
 
 
-
-
-
-
 	public void setPreco(float preco) {
 		this.preco = preco;
 	}
-
-
-
-
-
 
 
 	public void visualizar() {

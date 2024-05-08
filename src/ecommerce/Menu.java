@@ -69,7 +69,6 @@ public class Menu {
 				System.out.println("Digite o valor do produto unitário (R$): ");
 				preco = leia.nextFloat();
 				
-				//Ecommerce listaProdutos = new Ecommerce(ecommerce.gerarNumero(), quantidade, nome, preco);
 				ecommerce.cadastrar(new Ecommerce(ecommerce.gerarNumero(), quantidade, nome, preco));
 				
 				keyPress();
